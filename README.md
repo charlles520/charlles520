@@ -16,9 +16,9 @@ Languages: JavaScript, TypeScript, Node.js
            HTML, CSS
 Learning: JavaScript, TypeScript,
           HTML, CSS
-Hobbies: AnaliseDeMalware, PentesT
+Hobbies: Analise De Malware, PentesT
 Youtube: https://www.youtube.com/c/charllesdev
-Email: CharllesBauer@gmail.com
+Email: CHARLLESBAUER@GMAIL.COM
 ```
 
 <p align="left">
